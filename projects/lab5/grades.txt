@@ -1,0 +1,9 @@
+Yerdaulet Alipbayev D
+Yergali Azamat A
+Suleiman Asyl B
+Test1 Test1.2 C
+Test2 Test2.2 F
+
+Average - 73
+Maximum - 100
+Minimum - 40
